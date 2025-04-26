@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "crud_app", 
+  "homepage": "https://suriya-dev-maatson.github.io/crud_app/", 
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
