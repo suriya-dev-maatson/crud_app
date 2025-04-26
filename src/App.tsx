@@ -8,7 +8,7 @@ import ViewUser from "./pages/ViewUser";
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/crud_app">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/createuser" element={<CreateUser />} />
